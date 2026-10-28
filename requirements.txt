@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy
+sqlalchemy>=2.0str
+psycopg2-binary
+matplotlib
+seaborn
+plotly
+streamlit>=1.30
+jupyter

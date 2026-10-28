@@ -1,0 +1,15 @@
+# Python / env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# secrets
+local_secrets.py
+.env
+
+# local files
+*.zip
+app_backup_v1.py
+Claude outputs/
+.DS_Store
